@@ -1,6 +1,6 @@
 ## Hi there 👋
 
 
-💻 Skills: C#, JavaScript.
-📚 Currently learning: ASP.NET.
-📫 Contact: fimoks@mail.ru
+<div>💻 Skills: C#, JavaScript.</div>
+<div>📚 Currently learning: ASP.NET.</div>
+<div>📫 Contact: fimoks@mail.ru</div>
